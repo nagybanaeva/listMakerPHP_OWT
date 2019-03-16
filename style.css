@@ -26,12 +26,6 @@ input[type="text"], select {
     box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.3);
 }
 
-td {
-    border: solid 1px #ddd;
-    padding: 15px;
-    white-space: nowrap;
-}
-
 ul,
 ol {
     padding: 30px;
