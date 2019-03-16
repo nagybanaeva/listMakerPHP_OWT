@@ -23,7 +23,7 @@
 	
 	echo '<ol>';
 	for($x = 0; $x < $elem; $x++){
-		echo $szoveg;
+		echo '<li>' . $szoveg . '</li>';
 	}
 	echo '</ol>';
 	
